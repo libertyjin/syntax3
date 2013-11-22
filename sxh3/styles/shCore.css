@@ -224,3 +224,5 @@
 .syntaxhighlighter.printing .break, .syntaxhighlighter.printing .break a {
   color: black !important;
 }
+
+.syntaxhighlighter div.line code {box-shadow: 0 0 0.3em transparent inset;}
