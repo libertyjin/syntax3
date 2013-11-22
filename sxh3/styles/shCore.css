@@ -52,6 +52,9 @@
   min-height: auto !important;
 }
 
+
+.syntaxhighlighter div.line code {box-shadow: 0 0 0.3em transparent inset;}
+
 .syntaxhighlighter {
   width: 100% !important;
   margin: 1em 0 1em 0 !important;
@@ -225,4 +228,3 @@
   color: black !important;
 }
 
-.syntaxhighlighter div.line code {box-shadow: 0 0 0.3em transparent inset;}
